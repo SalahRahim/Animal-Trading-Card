@@ -1,0 +1,55 @@
+
+
+#card {
+  border: 2px solid black;
+  width: 700px;
+  border-radius: 5px;
+  background-color: #c47c7f;
+  padding: 5px;
+}
+
+.Label {
+  font-weight: bold;
+
+}
+
+#interesting {
+  font-style: italic;
+  width: 500px;
+  padding: 0.5em;
+  margin: 0.5em;
+  float: top right;
+}
+
+#information{
+  border:2px dotted rgb(107, 38, 31);
+  margin: 10px;
+}
+
+#name {
+  color:rgb(158, 9, 58);
+}
+
+ul {
+  list-style: none;
+  margin: 5px;
+  padding: 0.5em;
+}
+
+img {
+  border-bottom: 3px outset rgb(52, 28, 68);
+  border-right: 3px outset rgb(52, 28, 68);
+  margin: 3px;
+}
+
+h3 {
+  width: 80px;
+  margin: 3px;
+  padding: 5px;
+  padding-top: 6px;
+  font-family:  Arial, sans-serif;
+}
+ #description {
+   padding: 10px;
+   margin: 10px;
+ }
